@@ -1,3 +1,0 @@
-- This program is used to demonstrate the use of getters and setters
-- The inital exercise specified a void return type for the getTime() method
-- The exercise challenged the reader to find this and make the change
