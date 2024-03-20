@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HFJavaExercises/Chapter01-Introduction/Chapter01-Introduction.iml" filepath="$PROJECT_DIR$/HFJavaExercises/Chapter01-Introduction/Chapter01-Introduction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HFJavaExercises/Chapter02-ClassesAndObjects/Chapter02-ClassesAndObjects.iml" filepath="$PROJECT_DIR$/HFJavaExercises/Chapter02-ClassesAndObjects/Chapter02-ClassesAndObjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HFJavaExercises/Chapter03-PrimitivesAndReferenceVariables/Chapter03-PrimitivesAndReferenceVariables.iml" filepath="$PROJECT_DIR$/HFJavaExercises/Chapter03-PrimitivesAndReferenceVariables/Chapter03-PrimitivesAndReferenceVariables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HFJavaExercises/Chapter04-HowObjectsBehave/Chapter04-HowObjectsBehave.iml" filepath="$PROJECT_DIR$/HFJavaExercises/Chapter04-HowObjectsBehave/Chapter04-HowObjectsBehave.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HFJavaExercises/Chapter05-WritingAProgram/Chapter05-WritingAProgram.iml" filepath="$PROJECT_DIR$/HFJavaExercises/Chapter05-WritingAProgram/Chapter05-WritingAProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HFJavaExercises/Chapter09-ConstructorsAndGarbage/Chapter09-ConstructorsAndGarbage.iml" filepath="$PROJECT_DIR$/HFJavaExercises/Chapter09-ConstructorsAndGarbage/Chapter09-ConstructorsAndGarbage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HFJavaExercises/Chapter10-NumbersAndStatics/Chapter10-NumbersAndStatics.iml" filepath="$PROJECT_DIR$/HFJavaExercises/Chapter10-NumbersAndStatics/Chapter10-NumbersAndStatics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HFJavaExercises/Chapter11-DataStructures/Chapter11-DataStructures.iml" filepath="$PROJECT_DIR$/HFJavaExercises/Chapter11-DataStructures/Chapter11-DataStructures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HFJavaExercises/Chapter12-LambdasAndStreams/Chapter12-LambdasAndStreams.iml" filepath="$PROJECT_DIR$/HFJavaExercises/Chapter12-LambdasAndStreams/Chapter12-LambdasAndStreams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HFJavaExercises/HFJavaExercises.iml" filepath="$PROJECT_DIR$/HFJavaExercises/HFJavaExercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-Learning.iml" filepath="$PROJECT_DIR$/.idea/Java-Learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projects/Projects.iml" filepath="$PROJECT_DIR$/Projects/Projects.iml" />
+    </modules>
+  </component>
+</project>
