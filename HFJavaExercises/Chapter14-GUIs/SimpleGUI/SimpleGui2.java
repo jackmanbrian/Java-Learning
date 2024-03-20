@@ -29,9 +29,9 @@ public class SimpleGui2 implements ActionListener {
 		MyDrawPanel mdp = new MyDrawPanel();
 		frame.getContentPane().add(mdp);
 		
-		button.addActionListener(this);
+		//button.addActionListener(this);
 		
-		frame.getContentPane().add(button);
+		//frame.getContentPane().add(button);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.setSize(300, 300);
 		frame.setVisible(true);
@@ -48,11 +48,3 @@ public class SimpleGui2 implements ActionListener {
 	}
 }
 	
-class MyDrawPanel extends JPanel {
-
-	public void paintComponent(Graphics g) {
-		g.setColor(Color.orange);
-		
-		g.fillRect(20, 50, 100, 100);
-	}
-}
