@@ -21,30 +21,27 @@ public class SimpleGui2 implements ActionListener {
 	/* ---------------------------
 			Go Method
 	--------------------------- */
-	
 	public void go() {
 		JFrame frame = new JFrame();
 		button = new JButton("click me");
+
+
+		// MyDrawPanel mdp = new MyDrawPanel();
+		// frame.getContentPane().add(mdp);
 		
-		MyDrawPanel mdp = new MyDrawPanel();
-		frame.getContentPane().add(mdp);
+		button.addActionListener(this);
 		
-		//button.addActionListener(this);
-		
-		//frame.getContentPane().add(button);
+		frame.getContentPane().add(button);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.setSize(300, 300);
 		frame.setVisible(true);
-		
-		
+
 	}
 	
 	/* ---------------------------
 		actionPerformed Method
 	--------------------------- */
-	
 	public void actionPerformed(ActionEvent event) {
 		button.setText("I've been clicked!");
 	}
 }
-	
